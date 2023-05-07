@@ -5,6 +5,10 @@ This app simulates a game of bowling and calculates the score for each frame.
 It generates random points for each throw and displays the result in a simple format.
 The app also keeps track of the total score and displays it on the screen.
 
+## Example:
+!![Bildschirm­foto 2023-05-07 um 20 57 34](https://user-images.githubusercontent.com/59879129/236697305-b13fa097-d805-4415-b46f-3756b1b319c7.png)
+
+
 ## Getting Started
 
 ### Prerequisites
